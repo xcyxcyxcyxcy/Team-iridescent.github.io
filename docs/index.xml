@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Iridescent</title>
+    <link>https://Team-iridescent.github.io/</link>
+    <description>Recent content on Team Iridescent</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jan 2018 22:01:36 +0100</lastBuildDate><atom:link href="https://Team-iridescent.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code sample</title>
+      <link>https://Team-iridescent.github.io/introduction/code/</link>
+      <pubDate>Sun, 28 Jan 2018 21:48:10 +0100</pubDate>
+      
+      <guid>https://Team-iridescent.github.io/introduction/code/</guid>
+      <description>import time import board import terminalio import digitalio import displayio import busio from adafruit_display_text import label from adafruit_st7735r import ST7735R from digitalio import DigitalInOut from adafruit_apds9960.apds9960 import APDS9960 import adafruit_esp32spi.adafruit_esp32spi_socket as socket from adafruit_esp32spi import adafruit_esp32spi import adafruit_requests as requests from adafruit_io.adafruit_io import IO_HTTP, AdafruitIO_RequestError from random import randint led = digitalio.DigitalInOut(board.A1) led.direction = digitalio.Direction.OUTPUT esp32_cs = DigitalInOut(board.D13) esp32_ready = DigitalInOut(board.D11) esp32_reset = DigitalInOut(board.D12) # Release any resources currently in use for the displays displayio.</description>
+    </item>
+    
+    <item>
+      <title>Bora</title>
+      <link>https://Team-iridescent.github.io/characters/bora/</link>
+      <pubDate>Sun, 28 Jan 2018 21:54:02 +0100</pubDate>
+      
+      <guid>https://Team-iridescent.github.io/characters/bora/</guid>
+      <description>Bora Horza Gobuchul is a Changer and an operative of the Idiran Empire. Horza was one of a party of Changers allowed on Schar&amp;rsquo;s World, and for that reason is tasked by the Idirans with retrieving a Mind that had crashed to the planet. Horza is humanoid, but committed to the Idirans because he despises the Culture for its dependence on machines and what he perceives to be spiritual emptiness.</description>
+    </item>
+    
+    <item>
+      <title>Balveda</title>
+      <link>https://Team-iridescent.github.io/characters/balveda/</link>
+      <pubDate>Sun, 28 Jan 2018 21:55:52 +0100</pubDate>
+      
+      <guid>https://Team-iridescent.github.io/characters/balveda/</guid>
+      <description>Juboal-Rabaroansa Perosteck Alseyn Balveda dam T&amp;rsquo;seif, usually referred to as Perosteck Balveda, is an operative of the Culture assigned to track and apprehend Bora Horza Gobuchul. She works for the Special Circumstances branch of Contact, and despite being ambivalent about the methods they use, deeply believes in their objectives.</description>
+    </item>
+    
+    <item>
+      <title>Kraiklyn</title>
+      <link>https://Team-iridescent.github.io/characters/kraiklyn/</link>
+      <pubDate>Sun, 28 Jan 2018 21:57:07 +0100</pubDate>
+      
+      <guid>https://Team-iridescent.github.io/characters/kraiklyn/</guid>
+      <description>Kraiklyn is the captain of the Clear Air Turbulence.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Team Iridescent</title>
+    <link>https://Team-iridescent.github.io/introduction/</link>
+    <description>Recent content in Introduction on Team Iridescent</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jan 2018 15:42:17 +0100</lastBuildDate><atom:link href="https://Team-iridescent.github.io/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code sample</title>
+      <link>https://Team-iridescent.github.io/introduction/code/</link>
+      <pubDate>Sun, 28 Jan 2018 21:48:10 +0100</pubDate>
+      
+      <guid>https://Team-iridescent.github.io/introduction/code/</guid>
+      <description>import time import board import terminalio import digitalio import displayio import busio from adafruit_display_text import label from adafruit_st7735r import ST7735R from digitalio import DigitalInOut from adafruit_apds9960.apds9960 import APDS9960 import adafruit_esp32spi.adafruit_esp32spi_socket as socket from adafruit_esp32spi import adafruit_esp32spi import adafruit_requests as requests from adafruit_io.adafruit_io import IO_HTTP, AdafruitIO_RequestError from random import randint led = digitalio.DigitalInOut(board.A1) led.direction = digitalio.Direction.OUTPUT esp32_cs = DigitalInOut(board.D13) esp32_ready = DigitalInOut(board.D11) esp32_reset = DigitalInOut(board.D12) # Release any resources currently in use for the displays displayio.</description>
+    </item>
+    
+  </channel>
+</rss>
