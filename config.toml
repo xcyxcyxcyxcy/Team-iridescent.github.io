@@ -1,0 +1,23 @@
+baseURL = 'https://Team-iridescent.github.io/'
+languageCode = "en-us"
+theme ="kraiklyn"
+publishDir = "docs"
+title = "Team Iridescent"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+[params]
+externalTitle = "Kraiklyn theme"
+sidebarColor = "default"
+customCss = []
+
+[[menu.shortcuts]]
+name = "Kraiklyn on Github"
+url = "https://github.com/jsnjack/kraiklyn"
+weight = 10
+
+[[menu.shortcuts]]
+name = "Hugo docs"
+url = "https://gohugo.io/documentation/"
+weight = 20
