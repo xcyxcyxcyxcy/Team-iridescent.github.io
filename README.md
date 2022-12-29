@@ -17,12 +17,33 @@ There are some images and video of our whole system:
 ## Project instructions
 ### Components used
 * Adafruit Feather  RP2040 
+
+<div align=center><img width="300" height="250" src="https://github.com/xcyxcyxcyxcy/Team-iridescent.github.io/blob/main/image/2040.jpeg"/></div>
+
 * Airlift wifi module
+
+<div align=center><img width="300" height="250" src="https://github.com/xcyxcyxcyxcy/Team-iridescent.github.io/blob/main/image/airlift.jpg"/></div>
+
 * APDS 9960 sensor
+
+<div align=center><img width="300" height="250" src="https://github.com/xcyxcyxcyxcy/Team-iridescent.github.io/blob/main/image/apds9960.jpg"/></div>
+
 * ST7735R
+
+<div align=center><img width="300" height="250" src="https://github.com/xcyxcyxcyxcy/Team-iridescent.github.io/blob/main/image/screen.jpg"/></div>
+
 * Adafruit STEMMA Speaker
+
+<div align=center><img width="300" height="250" src="https://github.com/xcyxcyxcyxcy/Team-iridescent.github.io/blob/main/image/speaker.jpg"/></div>
+
 * Relay
+
+<div align=center><img width="300" height="250" src="https://github.com/xcyxcyxcyxcy/Team-iridescent.github.io/blob/main/image/relay.jpg"/></div>
+
 * Circuit Playground Express
+
+<div align=center><img width="300" height="250" src="https://github.com/xcyxcyxcyxcy/Team-iridescent.github.io/blob/main/image/playground.jpg"/></div>
+
 * Several cables
 ### Assembly details
 <div align=center><img width="600" height="400" src="https://github.com/xcyxcyxcyxcy/Team-iridescent.github.io/blob/main/image/5031671205774_.pic.jpg"/></div>
