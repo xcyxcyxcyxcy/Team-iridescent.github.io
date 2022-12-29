@@ -88,9 +88,9 @@ We want to use the camera module in the Pico4ML microcontroller to achieve peopl
 Just a few days before the demo day, we discovered that the Circuit Playground has interesting features and there are many extensions that can be changed to make the features interesting. Because it has lots of different sensors. It’s like a multimedia device. We can personalize the music playback and image display. And you can shake or tap the playground, or other custom interactions to increase the fun of the project.
 
 ## Team Overview:
-[Yixuan Wang]()
+[Yixuan Wang](https://github.com/Sharonun)
 
 [Chenye Xiong](https://github.com/xcyxcyxcyxcy)
 
-[Zhuoling Li]()
+[Zhuoling Li](https://github.com/Zhuoling11)
 
